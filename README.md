@@ -20,6 +20,6 @@ This portfolio is not just a collection of my work; it’s a snapshot of my grow
 4. **Black Jack Game**: This is a simple Blackjack game where users can try their luck against the computer. The project is a fun way to apply my JavaScript skills, working with game logic, random number generation, and DOM manipulation to create an interactive experience. It was a fun challenge and a great way to practice working with conditional logic and event handling.
 ## Links:
 - [GitHub Repository]([https://github.com/tamana-nt/Final-Project-Portfolio])
-- [Live Website](https://yourusername.github.io/final-project-portfolio/)
+- [Live Website](https://tamana-nt.github.io/Tamana-N.-Portfolio/)
 
 Thank you for visiting my portfolio! Feel free to explore and reach out if you have any opportunities to collaborate.
