@@ -5,9 +5,9 @@ body {
     margin: 0;
     padding: 0;
 }
-/* the first container where the outline has been made and changed the background of the container  */
+
 .container {
-    Background: #f3a2be;
+    background: #f3a2be;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
@@ -22,9 +22,8 @@ h1 {
 label {
     display: block;
     margin-top: 10px;
-/*     font-weight: bold; */
 }
-/* just the place where the user will input */
+
 input {
     width: 80%;
     padding: 8px;
@@ -43,6 +42,8 @@ button {
     border-radius: 5px;
 }
 
+button:hover {
+    color: #81bfb7;
 }
 
 p {
@@ -54,17 +55,11 @@ p {
     border-radius: 5px;
 }
 
-button:hover {
-  color: #81bfb7;
-  text-decoration: highlight;
-}
-/* container two for the localstorage is  */
 .containerTwo {
-    Background: #f3a2be;
+    background: #f3a2be;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     width: 50%;
     margin: 50px auto;
 }
-
